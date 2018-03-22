@@ -1,0 +1,4415 @@
+{
+	"id": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+	"name": "Jobportal",
+	"description": "Node Endpoint for Job portal",
+	"order": [],
+	"folders": [
+		{
+			"name": "Category",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"order": [
+				"fedf0f5f-5f41-9e0a-8703-e58008dde53a",
+				"337b36e6-b45c-d179-7b8a-558e75ab9a11"
+			],
+			"owner": 0,
+			"folders_order": [],
+			"id": "3cb71ef3-af13-1550-a8ab-bb222042c045"
+		},
+		{
+			"name": "Company",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"order": [
+				"f76ed35f-041e-1036-bf41-d5071bc45072",
+				"c7181693-d9f3-ab3c-ee67-9ab263c64679"
+			],
+			"owner": "3731088",
+			"folders_order": [],
+			"id": "d38a0669-984d-662b-228f-4a65429fe709"
+		},
+		{
+			"name": "Designation",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"order": [
+				"b7f4220a-3c61-aaef-af69-f8c858fc2cf1",
+				"dc72116a-9009-2ddb-3177-86210a7d5cdc"
+			],
+			"owner": "3731088",
+			"folders_order": [],
+			"id": "8f1497fd-d9f2-e640-db02-f690ab3f3b96"
+		},
+		{
+			"name": "Employment",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"order": [
+				"a5e2ada6-87d8-e5bf-a721-e71f7afcec93",
+				"9e71566b-6108-3df7-81b2-0384abdafee3"
+			],
+			"owner": "3731088",
+			"folders_order": [],
+			"id": "90620ff0-1a5f-4ce9-d4d6-27c85ba10e4f"
+		},
+		{
+			"name": "Experience",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"order": [
+				"f9f93a7a-a1e2-ed92-0724-3f8981f1c7c7",
+				"97a286e5-acbc-7e79-ce7a-0dbd82ca6b3a"
+			],
+			"owner": "3731088",
+			"folders_order": [],
+			"id": "084b47ab-ff96-cec6-d8bf-8b30461e66db"
+		},
+		{
+			"name": "File",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"order": [
+				"74899e7f-9522-867d-fc33-f1a243d22fa5",
+				"1e550e9f-9e74-a643-0628-dfb1e29513a0"
+			],
+			"owner": "3731088",
+			"folders_order": [],
+			"id": "c07dc1d1-49dc-055c-1980-c08f7aa50827"
+		},
+		{
+			"name": "Job",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"order": [
+				"4201bf8e-2998-fe0a-c249-2ecf47b1e9c5",
+				"02ca9b34-ec18-f430-1b00-41d87b5418cb",
+				"36b0b621-f622-ba36-fc42-fbe1ed6bad37",
+				"afe3f4b9-e5c6-7910-9877-cb68e22980ce",
+				"2c227966-b7d1-7884-b987-4766a9b3fc31",
+				"9bec179f-0680-395b-e851-989a1b686d26"
+			],
+			"owner": 0,
+			"folders_order": [],
+			"id": "a5677136-41c0-8dbc-837f-719fa60ec421"
+		},
+		{
+			"name": "Resume",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"order": [
+				"bfd6fd98-9600-ac84-7d4f-b969c9f888fd"
+			],
+			"owner": "3731088",
+			"folders_order": [],
+			"id": "664557c0-c964-f721-05f8-a52e0c919906"
+		},
+		{
+			"name": "User",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"order": [
+				"fbfd1031-3ff9-9b5d-566e-3c955e621fd5"
+			],
+			"owner": 0,
+			"folders_order": [],
+			"id": "edce5131-8a00-c22c-738f-7cc2937fcc25"
+		}
+	],
+	"folders_order": [
+		"edce5131-8a00-c22c-738f-7cc2937fcc25",
+		"a5677136-41c0-8dbc-837f-719fa60ec421",
+		"3cb71ef3-af13-1550-a8ab-bb222042c045",
+		"d38a0669-984d-662b-228f-4a65429fe709",
+		"8f1497fd-d9f2-e640-db02-f690ab3f3b96",
+		"90620ff0-1a5f-4ce9-d4d6-27c85ba10e4f",
+		"084b47ab-ff96-cec6-d8bf-8b30461e66db",
+		"664557c0-c964-f721-05f8-a52e0c919906",
+		"c07dc1d1-49dc-055c-1980-c08f7aa50827"
+	],
+	"timestamp": 1518437747366,
+	"owner": "3731088",
+	"public": false,
+	"requests": [
+		{
+			"id": "02ca9b34-ec18-f430-1b00-41d87b5418cb",
+			"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/job?page=1&docsperpage=6",
+			"folder": "a5677136-41c0-8dbc-837f-719fa60ec421",
+			"queryParams": [
+				{
+					"key": "page",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "docsperpage",
+					"value": "6",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1518604526387,
+			"name": "Get Posted Jobs",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"responses": []
+		},
+		{
+			"id": "1e550e9f-9e74-a643-0628-dfb1e29513a0",
+			"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/file/5a8583fe91e9142b2cc4effc",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"data": null,
+			"dataMode": "params",
+			"name": "Get upload file ",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1518699672367,
+			"version": 2,
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 365,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Thu, 15 Feb 2018 13:00:55 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "transfer-encoding",
+							"key": "transfer-encoding",
+							"value": "chunked",
+							"description": "The form of encoding used to safely transfer the entity to the user. Currently defined methods are: chunked, compress, deflate, gzip, identity."
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "/*\r\nInsert 3 records into Products table with the below values\r\n\r\nProductName-GreenTea\r\nQuantityPerUnit-100\r\nUnitsOnOrder-20\r\nCategoryID-1\r\n(Note:Use ProductID as 7,8,9 respectively and Discontinued as 0 for all 3 records)\r\n*/\r\n\r\ninsert into Products (ProductID,ProductName,QuantityPerUnit,UnitsOnOrder,CategoryID) values(7,'GreenTea',100,20,1);\r\ninsert into Products (ProductID,ProductName,QuantityPerUnit,UnitsOnOrder,CategoryID) values(8,'coffeebean',100,20,1);\r\ninsert into Products (ProductID,ProductName,QuantityPerUnit,UnitsOnOrder,CategoryID) values(9,'curd',100,20,1);\r\n\r\n\r\n/*\r\n\r\nInsert 2 records into Products table with the below values\r\n\r\nProductName-Ketchup\r\nQuantityPerUnit-200\r\nUnitsOnOrder-10\r\nCategoryID-7\r\n(Note:Use ProductID as 994,995 respectively and Discontinued as 0 for both records)\r\n*/\r\n\r\n\r\ninsert into Products (ProductID,ProductName,QuantityPerUnit,UnitsOnOrder,CategoryID) values(994,'Ketchup',200,10,7);\r\ninsert into Products (ProductID,ProductName,QuantityPerUnit,UnitsOnOrder,CategoryID) values(995,'coffeebean',100,20,7);\r\n\r\n\r\n/*\r\n\r\nInsert the following values into Categories table\r\n\r\nCategoryID-100\r\nCategoryName-Biscuits\r\nDescription-Cookies,wrappers\r\n*/\r\ninsert into Categories (CategoryID,CategoryName,Description)values(100,'Biscuits','Cookies,wrappers')\r\n\r\n\r\n/*\r\nInsert the following values into Categories table\r\n\r\nCategoryID-200\r\nCategoryName-Fruits\r\nDescription-Apple,Orange,Banana\r\n*/\r\n\r\ninsert into Categories (CategoryID,CategoryName,Description)values(200,'Fruits','Apple,Orange,Banana');\r\n\r\n\r\n/*\r\n\r\nInsert the following values into Customers table\r\n\r\nCustomerID-'Ram',\r\nCompanyName-ABC\r\nContactName-Raj\r\nCity-Chennai\r\nPhone-044-0074321\r\n*/\r\n\r\ninsert into Customers (CustomerID,CompanyName,ContactName,City,Phone)values('Ram','ABC','Raj','Chennai','044-0074321');\r\n\r\n\r\n/*\r\n\r\nInsert the following values into Customers table\r\n\r\nCustomerID-'Arun',\r\nCompanyName-DEF\r\nContactName-Kumar\r\nCity-Mexico\r\nPhone-(5) 555-4729\r\n*/\r\n\r\ninsert into Customers (CustomerID,CompanyName,ContactName,City,Phone)values('Arun','DEF','Kumar','Mexico','(5) 555-4729');\r\n\r\n/*update CompanyName as 'DHL' in Shippers table where the shipperid is 1*/\r\nupdate Shippers set CompanyName='DHL' where shipperid=1;\r\n\r\n/*Write a Sql Query to Update book title as 'PHYSICS Volume - I' in books table where book title is 'PHYSICS - I'*/\r\n\r\nupdate books set [book title] = 'PHYSICS Volume - I' where [book title] = 'PHYSICS - I';\r\n\r\n\r\n/*update city as 'Portland' in suppliers table where companyname is 'Bigfoot Breweries'*/\r\nupdate suppliers set city = 'Portland' where companyname='Bigfoot Breweries'\r\n\r\n/*update department head as 'HUMANITIES' in departments table where department name is english*/\r\nupdate departments set [department head] = 'HUMANITIES' where [department name] = 'english'\r\n\r\n\r\n/*Write a Sql Query Update book Class as 'ASST. LECTURER' in Student_Details table where Class is 'LECTURER'*/\r\n\r\nUPDATE Student_Details set [book Class] = 'ASST. LECTURER' where Class = 'LECTURER';\r\n\r\n\r\n/*update the ShipCountry as UnitedStates in orders table where ShipRegion is WA*/\r\n\r\nUPDATE orders set ShipCountry = 'UnitedStates' where ShipRegion = 'WA';\r\n\r\n\r\n/*Update Products table with CategoryID as 2 for the Product Ketchup*/\r\n\r\nUPDATE Products set CategoryID = 2 where Product ='Ketchup';\r\n\r\n\r\n/*Modify the Description for Condiments as Sweet and savory sauces,seasonings in Categories table*/\r\n\r\nUPDATE Categories set description = 'Sweet and savory sauces,seasonings' where name='Condiments';\r\n\r\n\r\n/*Modify ContactName as Andrew for Company DEF in Customers table*/\r\n\r\nUPDATE Customers set ContactName = 'Andrew' where Company='DEF';\r\n\r\n\r\n/*Delete values from Patient_Medical_Record table whose patient_id is 2*/\r\n\r\nDELETE FROM Patient_Medical_Record where patient_id = 2;\r\n\r\n\r\n/*Delete all transactions for transactiontype 'I' in book_transaction table*/\r\n\r\nDELETE FROM book_transaction where transactiontype='I';\r\n\r\n\r\n/*delete values from EmployeeTerritories table whose territoryid is 55439*/\r\n\r\nDELETE FROM  EmployeeTerritories where territoryid =55439;\r\n\r\n\r\n/*delete the records whose name starts with 'M' from student_details table*/\r\n\r\nDELETE FROM student_details where name like 'M%';\r\n\r\n\r\n/*Delete records whose UnitsInOrder is below 20 From Products table*/\r\n\r\nDELETE FROM Products where  UnitsInOrder<20;\r\n\r\n\r\n/*Delete records of whose Subtotal greater than 200 from Summary of Sales by Year table*/\r\n\r\nDELETE FROM [Summary of Sales by Year] where Subtotal>200;\r\n\r\n\r\n/*Write a query to find ContactName, CompanyName, and Address, customer PostalCode using Customers tables with matching records?*/\r\n\r\nSELECT ContactName, CompanyName, Address,PostalCode from Customers;\r\n\r\n\r\n/*Show the bookid,title,author from the books table?*/\r\n\r\nselect bookid,title,author from books;\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+					"language": "plainText",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Get upload file example",
+					"id": "1fcaf0b3-6e8a-4bef-5295-2833a7c19b7c",
+					"request": {
+						"url": "http://localhost:3000/api/file/5a8583fe91e9142b2cc4effc",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": null,
+						"method": "GET",
+						"dataMode": "params"
+					}
+				}
+			],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"folder": "c07dc1d1-49dc-055c-1980-c08f7aa50827"
+		},
+		{
+			"id": "2c227966-b7d1-7884-b987-4766a9b3fc31",
+			"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/job/filter",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"data": null,
+			"dataMode": "params",
+			"name": "Get all Job flilters",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1518601330731,
+			"version": 2,
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 446,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "3332",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 07:35:00 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"d04-KJJ9xUJZjHj+rYHsUYbG1aU1+Ao\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\",\"category\":[{\"_id\":\"5a82ea2cccf251e45d21fc24\",\"name\":\"program developer\",\"__v\":0,\"created_at\":\"2018-02-13T13:37:50.206Z\"}],\"company\":[{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\",\"__v\":0,\"created_at\":\"2018-02-14T05:46:09.468Z\"},{\"_id\":\"5a83cd32ccf251e45d221add\",\"name\":\"microsoft\",\"__v\":0,\"created_at\":\"2018-02-14T05:46:26.244Z\"},{\"_id\":\"5a83cd40ccf251e45d221ae5\",\"name\":\"boston dynamics\",\"__v\":0,\"created_at\":\"2018-02-14T05:46:40.035Z\"},{\"_id\":\"5a83cd48ccf251e45d221aea\",\"name\":\"hp\",\"__v\":0,\"created_at\":\"2018-02-14T05:46:48.917Z\"},{\"_id\":\"5a83cd5dccf251e45d221af1\",\"name\":\"apple\",\"__v\":0,\"created_at\":\"2018-02-14T05:47:09.022Z\"},{\"_id\":\"5a83cef8ccf251e45d221b73\",\"name\":\"samsung\",\"__v\":0,\"created_at\":\"2018-02-14T05:54:00.407Z\"}],\"designation\":[{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\",\"__v\":0,\"created_at\":\"2018-02-14T06:21:36.836Z\"},{\"_id\":\"5a83d574ccf251e45d221d39\",\"name\":\"ceo\",\"__v\":0,\"created_at\":\"2018-02-14T06:21:40.996Z\"},{\"_id\":\"5a83d591ccf251e45d221d42\",\"name\":\"technical engineer\",\"__v\":0,\"created_at\":\"2018-02-14T06:22:08.998Z\"},{\"_id\":\"5a83d596ccf251e45d221d46\",\"name\":\"support engineer\",\"__v\":0,\"created_at\":\"2018-02-14T06:23:39.867Z\"},{\"_id\":\"5a83d59cccf251e45d221d4c\",\"name\":\"software engineer\",\"__v\":0,\"created_at\":\"2018-02-14T06:22:20.333Z\"},{\"_id\":\"5a83d5a8ccf251e45d221d51\",\"name\":\"software developer\",\"__v\":0,\"created_at\":\"2018-02-14T06:22:32.374Z\"},{\"_id\":\"5a83d5adccf251e45d221d57\",\"name\":\"software analyst\",\"__v\":0,\"created_at\":\"2018-02-14T06:22:37.445Z\"},{\"_id\":\"5a83d5b6ccf251e45d221d5c\",\"name\":\"project manager\",\"__v\":0,\"created_at\":\"2018-02-14T06:22:46.958Z\"},{\"_id\":\"5a83d5c0ccf251e45d221d61\",\"name\":\"technical lead\",\"__v\":0,\"created_at\":\"2018-02-14T06:22:56.746Z\"},{\"_id\":\"5a83d5cbccf251e45d221d66\",\"name\":\"team lead\",\"__v\":0,\"created_at\":\"2018-02-14T06:23:07.932Z\"},{\"_id\":\"5a83d5d7ccf251e45d221d6e\",\"name\":\"cfo\",\"__v\":0,\"created_at\":\"2018-02-14T06:23:19.412Z\"},{\"_id\":\"5a83d5e3ccf251e45d221d73\",\"name\":\"junior engineer\",\"__v\":0,\"created_at\":\"2018-02-14T06:23:31.529Z\"},{\"_id\":\"5a83d5e8ccf251e45d221d79\",\"name\":\"suport engineer\",\"__v\":0,\"created_at\":\"2018-02-14T06:23:36.097Z\"},{\"_id\":\"5a83d5f8ccf251e45d221d81\",\"name\":\"customer support\",\"__v\":0,\"created_at\":\"2018-02-14T06:23:52.139Z\"},{\"_id\":\"5a83d608ccf251e45d221d88\",\"name\":\"senior developer\",\"__v\":0,\"created_at\":\"2018-02-14T06:41:12.371Z\"}],\"employment_type\":[{\"_id\":\"5a83d86fccf251e45d221e36\",\"name\":\"junior level\",\"__v\":0,\"created_at\":\"2018-02-14T06:34:23.235Z\"},{\"_id\":\"5a83d876ccf251e45d221e3b\",\"name\":\"senior level\",\"__v\":0,\"created_at\":\"2018-02-14T06:34:30.111Z\"},{\"_id\":\"5a83d87accf251e45d221e41\",\"name\":\"mid level\",\"__v\":0,\"created_at\":\"2018-02-14T06:42:57.167Z\"},{\"_id\":\"5a83db96ccf251e45d221f26\",\"name\":\"contractor\",\"__v\":0,\"created_at\":\"2018-02-14T06:47:50.120Z\"}],\"experience_level\":[{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\",\"__v\":0,\"created_at\":\"2018-02-14T06:49:37.330Z\"}],\"location\":[{\"_id\":\"5a83ddb6ccf251e45d221fca\",\"name\":\"chennai\",\"__v\":0,\"created_at\":\"2018-02-14T06:57:33.216Z\"},{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\",\"__v\":0,\"created_at\":\"2018-02-14T06:57:00.648Z\"},{\"_id\":\"5a83ddc4ccf251e45d221fd3\",\"name\":\"bangalore\",\"__v\":0,\"created_at\":\"2018-02-14T06:57:08.397Z\"},{\"_id\":\"5a83ddd1ccf251e45d221fdb\",\"name\":\"pune\",\"__v\":0,\"created_at\":\"2018-02-14T06:57:21.844Z\"}]}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Get all Job flilters example",
+					"id": "9e66cacc-ad6e-bf77-63e0-79f65ee11cce",
+					"request": {
+						"url": "http://localhost:3000/api/job/filter",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": null,
+						"method": "GET",
+						"dataMode": "params"
+					}
+				}
+			],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"folder": "a5677136-41c0-8dbc-837f-719fa60ec421"
+		},
+		{
+			"id": "337b36e6-b45c-d179-7b8a-558e75ab9a11",
+			"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/category",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"data": null,
+			"dataMode": "params",
+			"name": "Get categories",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1518587481275,
+			"version": 2,
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 27,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "97",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 05:55:27 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"61-jjLF3tW0nOL7hWixNjBwnhFExWc\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\",\"categories\":[{\"_id\":\"5a82ea2cccf251e45d21fc24\",\"name\":\"program developer\"}]}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Example for get categories",
+					"id": "f33ebdfa-6e43-7159-3e22-63a280d7ff59",
+					"request": {
+						"url": "http://localhost:3000/api/category",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": null,
+						"method": "GET",
+						"dataMode": "params"
+					}
+				}
+			],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"folder": "3cb71ef3-af13-1550-a8ab-bb222042c045"
+		},
+		{
+			"id": "36b0b621-f622-ba36-fc42-fbe1ed6bad37",
+			"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\nContent-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/job/location/create",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1518591465101,
+			"name": "Create Job Location",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 33,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "20",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 06:57:33 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"14-Y53wuE/mmbSikKcT/WualL1N65U\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Create Job Location",
+					"id": "0542ee09-78ba-bfb1-8b93-aea4af4f5317",
+					"request": {
+						"url": "http://localhost:3000/api/job/location/create",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\nContent-Type: application/json\n",
+						"data": "{\n\t\"name\":\"chennai\"\n}",
+						"method": "POST",
+						"dataMode": "raw"
+					}
+				},
+				{
+					"status": "",
+					"responseCode": {
+						"code": 404,
+						"name": "Not Found",
+						"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+					},
+					"time": 34,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "52",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 06:57:46 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"34-VzcnV4m8JbhFR3q7KCRI3eqflCo\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"error\",\"msg\":\"required field is missing\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Validation Error (Required field is missing)",
+					"id": "a06f8d13-26aa-a1c3-615e-114fd2e4e12a",
+					"request": {
+						"url": "http://localhost:3000/api/job/location/create",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\nContent-Type: application/json\n",
+						"data": "{\n\t\"name\":\"\"\n}",
+						"method": "POST",
+						"dataMode": "raw"
+					}
+				}
+			],
+			"rawModeData": "{\n\t\"name\":\"\"\n}"
+		},
+		{
+			"id": "4201bf8e-2998-fe0a-c249-2ecf47b1e9c5",
+			"headers": "Content-Type: application/json\nAuthorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/job/create",
+			"folder": "a5677136-41c0-8dbc-837f-719fa60ec421",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1518611789594,
+			"name": "Create a new job",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"responses": [],
+			"rawModeData": "{\n\t\"category\":\"5a84122cccf251e45d2230ea\",\n\t\"company\":\"5a8414ffccf251e45d223242\",\n\t\"designation\":\"5a83d570ccf251e45d221d35\",\n    \"employment\":{\n        \"type\":\"5a83d86fccf251e45d221e36\"\n    },\n    \"experience\":{\n        \"level\":\"5a841438ccf251e45d2231e0\"\n    },\n    \"image\":\"\",\n    \"location\":\"5a83ddbcccf251e45d221fce\",\n    \"salary\":{\n        \"min\":1000000,\n        \"max\":1500000\n    },\n    \"state\":\"califorina\"\n}\n"
+		},
+		{
+			"id": "74899e7f-9522-867d-fc33-f1a243d22fa5",
+			"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/file/upload",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "file",
+					"value": "pratice_feb_14_18.sql",
+					"description": "",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1518699675411,
+			"name": "Upload file",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 391,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "261",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Thu, 15 Feb 2018 12:58:38 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"105-b0Iyvt+d7fEx95tYgx7ZgJVuuls\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\",\"file\":{\"_id\":\"5a8583fe91e9142b2cc4effc\",\"filename\":\"pratice_feb_14_18.sql\",\"contentType\":\"binary/octet-stream\",\"length\":4847,\"chunkSize\":261120,\"uploadDate\":\"2018-02-15T12:58:38.702Z\",\"metadata\":{},\"md5\":\"e269dca931ae9f359100e995306dd5ec\"}}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Upload file example response",
+					"id": "403e5753-b7ad-3313-de57-13a1f35e8eba",
+					"request": {
+						"url": "http://localhost:3000/api/file/upload",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": [
+							{
+								"key": "file",
+								"value": {
+									"0": {}
+								},
+								"description": "",
+								"type": "file",
+								"enabled": true
+							}
+						],
+						"method": "POST",
+						"dataMode": "params"
+					}
+				}
+			]
+		},
+		{
+			"id": "97a286e5-acbc-7e79-ce7a-0dbd82ca6b3a",
+			"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/experience/level",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1518591126560,
+			"name": "Get Experience List",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 417,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "89",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 06:51:25 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"59-u6RT/E9Ei0Nqk/X6EYddRXKl9no\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\",\"exp_levels\":[{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}]}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Get Experience List example",
+					"id": "30ffc2fb-9137-de5a-4b5c-5d45edfbd9ac",
+					"request": {
+						"url": "http://localhost:3000/api/experience/level",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": null,
+						"method": "GET",
+						"dataMode": "params"
+					}
+				}
+			]
+		},
+		{
+			"id": "9bec179f-0680-395b-e851-989a1b686d26",
+			"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/job?page=1&docsperpage=6&salary=1000000",
+			"queryParams": [
+				{
+					"key": "page",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "docsperpage",
+					"value": "6",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "salary",
+					"value": "1000000",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1518686539749,
+			"name": "Search job",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 42,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "3226",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 11:13:06 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"c9a-YcHQzghs27R8IjOX2aKyasG8QDc\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\",\"jobs\":{\"docs\":[{\"employment\":{\"type\":{\"_id\":\"5a841329ccf251e45d22315e\",\"name\":\"full time\"}},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a84039934f9cf2658f40629\",\"category\":{\"_id\":\"5a82ea2cccf251e45d21fc24\",\"name\":\"program developer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddb6ccf251e45d221fca\",\"name\":\"chennai\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T09:38:33.801Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a84045b34f9cf2658f4062a\",\"category\":{\"_id\":\"5a82ea2cccf251e45d21fc24\",\"name\":\"program developer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T09:41:47.720Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8412ac7a0b5125987d8d4f\",\"category\":{\"_id\":\"5a8411f3ccf251e45d2230d5\",\"name\":\"chemical engineer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T10:42:52.707Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8416137a0b5125987d8d56\",\"category\":{\"_id\":\"5a82ea2cccf251e45d21fc24\",\"name\":\"program developer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T10:57:23.549Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a84161b7a0b5125987d8d57\",\"category\":{\"_id\":\"5a8411f3ccf251e45d2230d5\",\"name\":\"chemical engineer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T10:57:31.875Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8416567a0b5125987d8d5e\",\"category\":{\"_id\":\"5a8411f3ccf251e45d2230d5\",\"name\":\"chemical engineer\"},\"company\":{\"_id\":\"5a83cd32ccf251e45d221add\",\"name\":\"microsoft\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T10:58:30.333Z\",\"__v\":0}],\"total\":30,\"limit\":6,\"page\":1,\"pages\":5}}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Search job by category",
+					"id": "366895bf-16c8-5577-21ef-1c823759582f",
+					"request": {
+						"url": "http://localhost:3000/api/job?page=1&docsperpage=6&category=5a82ea2cccf251e45d21fc24,5a8411f3ccf251e45d2230d5",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [
+							{
+								"key": "page",
+								"value": "1",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "docsperpage",
+								"value": "6",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "category",
+								"value": "5a82ea2cccf251e45d21fc24,5a8411f3ccf251e45d2230d5",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": null,
+						"method": "GET",
+						"dataMode": "params"
+					}
+				},
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 35,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "1113",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 11:13:55 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"459-Zw/PZ7Atk/XyoQ7BoylNMveHyU0\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\",\"jobs\":{\"docs\":[{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8416857a0b5125987d8d62\",\"category\":{\"_id\":\"5a8411f3ccf251e45d2230d5\",\"name\":\"chemical engineer\"},\"company\":{\"_id\":\"5a83cef8ccf251e45d221b73\",\"name\":\"samsung\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T10:59:17.627Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8417437a0b5125987d8d7c\",\"category\":{\"_id\":\"5a84122cccf251e45d2230ea\",\"name\":\"mechanical engineer\"},\"company\":{\"_id\":\"5a83cef8ccf251e45d221b73\",\"name\":\"samsung\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T11:02:27.094Z\",\"__v\":0}],\"total\":2,\"limit\":6,\"page\":1,\"pages\":1}}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Search job by company",
+					"id": "b3d15ad1-ce29-8de7-1155-8b5d26722149",
+					"request": {
+						"url": "http://localhost:3000/api/job?page=1&docsperpage=6&company=5a83cef8ccf251e45d221b73",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [
+							{
+								"key": "page",
+								"value": "1",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "docsperpage",
+								"value": "6",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "company",
+								"value": "5a83cef8ccf251e45d221b73",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": null,
+						"method": "GET",
+						"dataMode": "params"
+					}
+				},
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 33,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "642",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 12:18:35 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"282-BXyjAIVPnwqkc4cmnOkAZFaZu38\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\",\"jobs\":{\"docs\":[{\"employment\":{\"type\":{\"_id\":\"5a841329ccf251e45d22315e\",\"name\":\"full time\"}},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a84039934f9cf2658f40629\",\"category\":{\"_id\":\"5a82ea2cccf251e45d21fc24\",\"name\":\"program developer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddb6ccf251e45d221fca\",\"name\":\"chennai\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T09:38:33.801Z\",\"__v\":0}],\"total\":1,\"limit\":6,\"page\":1,\"pages\":1}}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Search job by location",
+					"id": "bb784b86-6886-b744-81f3-c43f640e4857",
+					"request": {
+						"url": "http://localhost:3000/api/job?page=1&docsperpage=6&location=5a83ddb6ccf251e45d221fca",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [
+							{
+								"key": "page",
+								"value": "1",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "docsperpage",
+								"value": "6",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "location",
+								"value": "5a83ddb6ccf251e45d221fca",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": null,
+						"method": "GET",
+						"dataMode": "params"
+					}
+				},
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 44,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "602",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 12:36:34 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"25a-T3NoXEuv3Gqo4AvMj7ZpMrgb8OY\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\",\"jobs\":{\"docs\":[{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a841438ccf251e45d2231e0\",\"name\":\"projectmanager\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a842d4ef3c3682e8cf3a9be\",\"category\":{\"_id\":\"5a84122cccf251e45d2230ea\",\"name\":\"mechanical engineer\"},\"company\":{\"_id\":\"5a8414ffccf251e45d223242\",\"name\":\"inshorts\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T12:36:30.517Z\",\"__v\":0}],\"total\":1,\"limit\":6,\"page\":1,\"pages\":1}}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Search job by employment type",
+					"id": "d0b94465-645e-8aa9-7a11-15ba9c212f62",
+					"request": {
+						"url": "http://localhost:3000/api/job?page=1&docsperpage=6&emp_type=5a841329ccf251e45d22315e",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [
+							{
+								"key": "page",
+								"value": "1",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "docsperpage",
+								"value": "6",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "emp_type",
+								"value": "5a841329ccf251e45d22315e",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": null,
+						"method": "GET",
+						"dataMode": "params"
+					}
+				},
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 28,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "602",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 12:37:55 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"25a-T3NoXEuv3Gqo4AvMj7ZpMrgb8OY\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\",\"jobs\":{\"docs\":[{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a841438ccf251e45d2231e0\",\"name\":\"projectmanager\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a842d4ef3c3682e8cf3a9be\",\"category\":{\"_id\":\"5a84122cccf251e45d2230ea\",\"name\":\"mechanical engineer\"},\"company\":{\"_id\":\"5a8414ffccf251e45d223242\",\"name\":\"inshorts\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T12:36:30.517Z\",\"__v\":0}],\"total\":1,\"limit\":6,\"page\":1,\"pages\":1}}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Search job by experience level",
+					"id": "50bfcb28-4cd9-b3eb-efa2-93b5bcbc8d74",
+					"request": {
+						"url": "http://localhost:3000/api/job?page=1&docsperpage=6&exp_level=5a841438ccf251e45d2231e0",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [
+							{
+								"key": "page",
+								"value": "1",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "docsperpage",
+								"value": "6",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "exp_level",
+								"value": "5a841438ccf251e45d2231e0",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": null,
+						"method": "GET",
+						"dataMode": "params"
+					}
+				},
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 61,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "3156",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 13:17:21 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"c54-uDszlMlpSW1Upmv0vAwU9FT7D4M\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\",\"jobs\":{\"docs\":[{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a84045b34f9cf2658f4062a\",\"category\":{\"_id\":\"5a82ea2cccf251e45d21fc24\",\"name\":\"program developer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T09:41:47.720Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8412be7a0b5125987d8d51\",\"category\":{\"_id\":\"5a84122cccf251e45d2230ea\",\"name\":\"mechanical engineer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T10:43:10.592Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8412c77a0b5125987d8d52\",\"category\":{\"_id\":\"5a84124dccf251e45d2230f6\",\"name\":\"UI designer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T10:43:19.513Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8412ce7a0b5125987d8d53\",\"category\":{\"_id\":\"5a841253ccf251e45d2230fa\",\"name\":\"UX designer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T10:43:26.474Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8412d67a0b5125987d8d54\",\"category\":{\"_id\":\"5a841264ccf251e45d223104\",\"name\":\"civil engineer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T10:43:34.560Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8412df7a0b5125987d8d55\",\"category\":{\"_id\":\"5a841270ccf251e45d22310c\",\"name\":\"architecture\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T10:43:43.264Z\",\"__v\":0}],\"total\":54,\"limit\":6,\"page\":1,\"pages\":9}}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Search job by today",
+					"id": "37ecc0d5-d8e0-b0e0-ef3f-4cc22b352a02",
+					"request": {
+						"url": "http://localhost:3000/api/job?page=1&docsperpage=6&posteddate=today",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [
+							{
+								"key": "page",
+								"value": "1",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "docsperpage",
+								"value": "6",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "posteddate",
+								"value": "today",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": null,
+						"method": "GET",
+						"dataMode": "params"
+					}
+				},
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 379,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "3216",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 13:19:24 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"c90-mk92MEii2kWgz28KDdwSuEioyVE\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\",\"jobs\":{\"docs\":[{\"employment\":{\"type\":{\"_id\":\"5a841329ccf251e45d22315e\",\"name\":\"full time\"}},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a84039934f9cf2658f40629\",\"category\":{\"_id\":\"5a82ea2cccf251e45d21fc24\",\"name\":\"program developer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddb6ccf251e45d221fca\",\"name\":\"chennai\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-13T09:38:33.801Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a84045b34f9cf2658f4062a\",\"category\":{\"_id\":\"5a82ea2cccf251e45d21fc24\",\"name\":\"program developer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T09:41:47.720Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8412b57a0b5125987d8d50\",\"category\":{\"_id\":\"5a84121bccf251e45d2230e0\",\"name\":\"industrial engineer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-08T10:43:01.232Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8412be7a0b5125987d8d51\",\"category\":{\"_id\":\"5a84122cccf251e45d2230ea\",\"name\":\"mechanical engineer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T10:43:10.592Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8412c77a0b5125987d8d52\",\"category\":{\"_id\":\"5a84124dccf251e45d2230f6\",\"name\":\"UI designer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T10:43:19.513Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8412ce7a0b5125987d8d53\",\"category\":{\"_id\":\"5a841253ccf251e45d2230fa\",\"name\":\"UX designer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T10:43:26.474Z\",\"__v\":0}],\"total\":56,\"limit\":6,\"page\":1,\"pages\":10}}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Search job by posted date before 7 days",
+					"id": "7c434e89-573d-01ac-1c17-10e45ddb53ce",
+					"request": {
+						"url": "http://localhost:3000/api/job?page=1&docsperpage=6&posteddate=7days",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [
+							{
+								"key": "page",
+								"value": "1",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "docsperpage",
+								"value": "6",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "posteddate",
+								"value": "7days",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": null,
+						"method": "GET",
+						"dataMode": "params"
+					}
+				},
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK"
+					},
+					"time": 379,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "3216",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 13:19:24 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"c90-mk92MEii2kWgz28KDdwSuEioyVE\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\",\"jobs\":{\"docs\":[{\"employment\":{\"type\":{\"_id\":\"5a841329ccf251e45d22315e\",\"name\":\"full time\"}},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a84039934f9cf2658f40629\",\"category\":{\"_id\":\"5a82ea2cccf251e45d21fc24\",\"name\":\"program developer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddb6ccf251e45d221fca\",\"name\":\"chennai\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-13T09:38:33.801Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a84045b34f9cf2658f4062a\",\"category\":{\"_id\":\"5a82ea2cccf251e45d21fc24\",\"name\":\"program developer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T09:41:47.720Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8412b57a0b5125987d8d50\",\"category\":{\"_id\":\"5a84121bccf251e45d2230e0\",\"name\":\"industrial engineer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-08T10:43:01.232Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8412be7a0b5125987d8d51\",\"category\":{\"_id\":\"5a84122cccf251e45d2230ea\",\"name\":\"mechanical engineer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T10:43:10.592Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8412c77a0b5125987d8d52\",\"category\":{\"_id\":\"5a84124dccf251e45d2230f6\",\"name\":\"UI designer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T10:43:19.513Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8412ce7a0b5125987d8d53\",\"category\":{\"_id\":\"5a841253ccf251e45d2230fa\",\"name\":\"UX designer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T10:43:26.474Z\",\"__v\":0}],\"total\":56,\"limit\":6,\"page\":1,\"pages\":10}}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Search job by posted date before 30 days",
+					"id": "be0ad1aa-afb5-5814-aa46-798c33ded17c",
+					"request": {
+						"url": "http://localhost:3000/api/job?page=1&docsperpage=6&posteddate=7days",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [
+							{
+								"key": "page",
+								"value": "1",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "docsperpage",
+								"value": "6",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "posteddate",
+								"value": "7days",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": null,
+						"method": "GET",
+						"dataMode": "params"
+					}
+				},
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK"
+					},
+					"time": 48,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "3222",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Thu, 15 Feb 2018 09:21:50 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"c96-MuIien6F2AmLWK5p1YGFV1eZW1w\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\",\"jobs\":{\"docs\":[{\"employment\":{\"type\":{\"_id\":\"5a841329ccf251e45d22315e\",\"name\":\"full time\"}},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a84039934f9cf2658f40629\",\"category\":{\"_id\":\"5a82ea2cccf251e45d21fc24\",\"name\":\"program developer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddb6ccf251e45d221fca\",\"name\":\"chennai\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-13T09:38:33.801Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a84045b34f9cf2658f4062a\",\"category\":{\"_id\":\"5a82ea2cccf251e45d21fc24\",\"name\":\"program developer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T09:41:47.720Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8412ac7a0b5125987d8d4f\",\"category\":{\"_id\":\"5a8411f3ccf251e45d2230d5\",\"name\":\"chemical engineer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-01-24T10:42:52.707Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8412b57a0b5125987d8d50\",\"category\":{\"_id\":\"5a84121bccf251e45d2230e0\",\"name\":\"industrial engineer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-08T10:43:01.232Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8412be7a0b5125987d8d51\",\"category\":{\"_id\":\"5a84122cccf251e45d2230ea\",\"name\":\"mechanical engineer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T10:43:10.592Z\",\"__v\":0},{\"employment\":{\"type\":null},\"experience\":{\"level\":{\"_id\":\"5a83dbc0ccf251e45d221f35\",\"name\":\"mid-level\"}},\"salary\":{\"min\":1000000,\"max\":1500000},\"_id\":\"5a8412c77a0b5125987d8d52\",\"category\":{\"_id\":\"5a84124dccf251e45d2230f6\",\"name\":\"UI designer\"},\"company\":{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},\"designation\":{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},\"image\":\"\",\"location\":{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},\"state\":\"califorina\",\"posted_on\":\"2018-02-14T10:43:19.513Z\",\"__v\":0}],\"total\":57,\"limit\":6,\"page\":1,\"pages\":10}}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Search job by salary example",
+					"id": "51a01697-1166-75a2-7ccc-39ee8d309d88",
+					"isSample": true,
+					"scrollToResult": false,
+					"runTests": false,
+					"request": {
+						"url": "http://localhost:3000/api/job?page=1&docsperpage=6&salary=1000000",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [
+							{
+								"key": "page",
+								"value": "1",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "docsperpage",
+								"value": "6",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "salary",
+								"value": "1000000",
+								"equals": true,
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"enabled": true,
+								"description": ""
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": null,
+						"method": "GET",
+						"dataMode": "params"
+					}
+				}
+			]
+		},
+		{
+			"id": "9e71566b-6108-3df7-81b2-0384abdafee3",
+			"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/employment/type",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"data": null,
+			"dataMode": "params",
+			"name": "get employment  type",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1518590221516,
+			"version": 2,
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 412,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "202",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 06:36:34 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"ca-pCpdWn/XlbBhKBH5qZP65SnETkw\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\",\"emp_types\":[{\"_id\":\"5a83d86fccf251e45d221e36\",\"name\":\"junior level\"},{\"_id\":\"5a83d876ccf251e45d221e3b\",\"name\":\"senior level\"},{\"_id\":\"5a83d87accf251e45d221e41\",\"name\":\"mid level\"}]}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "get employment  type example",
+					"id": "8114b523-5406-f259-996e-5345f0697938",
+					"request": {
+						"url": "http://localhost:3000/api/employment/type",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": null,
+						"method": "GET",
+						"dataMode": "params"
+					}
+				}
+			],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"folder": "90620ff0-1a5f-4ce9-d4d6-27c85ba10e4f"
+		},
+		{
+			"id": "a5e2ada6-87d8-e5bf-a721-e71f7afcec93",
+			"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\nContent-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/employment/type/create",
+			"folder": "90620ff0-1a5f-4ce9-d4d6-27c85ba10e4f",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1518605143986,
+			"name": "Create employment type",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 27,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "20",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 06:41:25 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"14-Y53wuE/mmbSikKcT/WualL1N65U\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Create employment type example",
+					"id": "67d21b1c-80c9-4c54-6563-e8d354135536",
+					"request": {
+						"url": "http://localhost:3000/api/employment/type/create",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\nContent-Type: application/json\n",
+						"data": "{\n\t\"name\":\"mid level\"\n}",
+						"method": "POST",
+						"dataMode": "raw"
+					}
+				},
+				{
+					"status": "",
+					"responseCode": {
+						"code": 404,
+						"name": "Not Found",
+						"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+					},
+					"time": 33,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "52",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 06:41:59 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"34-VzcnV4m8JbhFR3q7KCRI3eqflCo\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"error\",\"msg\":\"required field is missing\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Validation Error (Required Field is missing)",
+					"id": "de957825-d492-002a-8087-2f6c7ee65c6c",
+					"request": {
+						"url": "http://localhost:3000/api/employment/type/create",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"enabled": true,
+								"description": ""
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"enabled": true,
+								"description": ""
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\nContent-Type: application/json\n",
+						"data": "{\n\t\"name\":\"\"\n}",
+						"method": "POST",
+						"dataMode": "raw"
+					}
+				}
+			],
+			"rawModeData": "{\n\t\"name\":\"intern\"\n}"
+		},
+		{
+			"id": "afe3f4b9-e5c6-7910-9877-cb68e22980ce",
+			"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/job/location",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"data": null,
+			"dataMode": "params",
+			"name": "Get Job location",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1518591561744,
+			"version": 2,
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 428,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "241",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 06:59:02 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"f1-DvCBlxy7mLSBfFonmHahhn0TPSM\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\",\"locations\":[{\"_id\":\"5a83ddb6ccf251e45d221fca\",\"name\":\"chennai\"},{\"_id\":\"5a83ddbcccf251e45d221fce\",\"name\":\"vellore\"},{\"_id\":\"5a83ddc4ccf251e45d221fd3\",\"name\":\"bangalore\"},{\"_id\":\"5a83ddd1ccf251e45d221fdb\",\"name\":\"pune\"}]}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Get Job location Example",
+					"id": "08e1ac11-ce34-e3b8-2089-49cb8de213c5",
+					"request": {
+						"url": "http://localhost:3000/api/job/location",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": null,
+						"method": "GET",
+						"dataMode": "params"
+					}
+				}
+			],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"folder": "a5677136-41c0-8dbc-837f-719fa60ec421"
+		},
+		{
+			"id": "b7f4220a-3c61-aaef-af69-f8c858fc2cf1",
+			"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\nContent-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/designation/create",
+			"folder": "8f1497fd-d9f2-e640-db02-f690ab3f3b96",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1518590475240,
+			"name": "Create designation ",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 385,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "20",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 06:40:04 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"14-Y53wuE/mmbSikKcT/WualL1N65U\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Create designation  example",
+					"id": "ab32d8ce-967a-ed2b-fe6a-d853589e3f4f",
+					"request": {
+						"url": "http://localhost:3000/api/designation/create",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\nContent-Type: application/json\n",
+						"data": "{\n\t\"name\":\"senior developer\"\n}",
+						"method": "POST",
+						"dataMode": "raw"
+					}
+				},
+				{
+					"status": "",
+					"responseCode": {
+						"code": 404,
+						"name": "Not Found",
+						"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+					},
+					"time": 30,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "52",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 06:40:26 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"34-VzcnV4m8JbhFR3q7KCRI3eqflCo\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"error\",\"msg\":\"required field is missing\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Validation Error (Required field is missing)",
+					"id": "d93f1d0b-c72f-3e9c-fbc5-def9ecf5778d",
+					"request": {
+						"url": "http://localhost:3000/api/designation/create",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"enabled": true,
+								"description": ""
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"enabled": true,
+								"description": ""
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\nContent-Type: application/json\n",
+						"data": "{\n\t\"name\":\"\"\n}",
+						"method": "POST",
+						"dataMode": "raw"
+					}
+				}
+			],
+			"rawModeData": "{\n\t\"name\":\"senior developer\"\n}"
+		},
+		{
+			"id": "bfd6fd98-9600-ac84-7d4f-b969c9f888fd",
+			"headers": "Content-Type: application/json\nAuthorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/resume/post",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1518692130855,
+			"name": "Post Resume",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 73,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "47",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Thu, 15 Feb 2018 10:55:17 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"2f-N8/xJNv6ys+RdUORlMivCRUkZ2Y\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\",\"msg\":\"saved successfully\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Post Resume example",
+					"id": "486e5a91-468a-c9c9-b1d0-7f1caf7f7925",
+					"request": {
+						"url": "http://localhost:3000/api/resume/post",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							}
+						],
+						"headers": "Content-Type: application/json\nAuthorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": "{\r\n\"firstname\":\"jason\",\r\n\"lastname\":\"will\",\r\n\"email\":\"jasonwill@123.com\",\r\n\"phone\":\"1234567890\",\r\n\"fathername\":\"jacob\",\r\n\"mothername\":\"ellen\",\r\n\"additional_info\":\"i am good at academics\",\r\n\"carrerobjective\":\"hard working\",\r\n\"dateofbirth\":\"1994-08-01\",\r\n\"birthplace\":\"canada\",\r\n\"nationality\":\"canadian\",\r\n\"sex\":\"male\",\r\n\"address\":\"no 1 canada street, canada\",\r\n\"specialqualification\":\"strong leadership skills\",\r\n\"declaration\":\"all above information given by my knowledge\",\r\n\"email_notification\":false,\r\n\"resume\":\"1223344555\",\r\n\"language\":[{\r\n    \"name\":\"english\",\r\n    \"rating\":\"4\"\r\n},\r\n{\r\n    \"name\":\"tamil\",\r\n    \"rating\":\"5\"\r\n}],\r\n\"education\":[{\r\n    \"name\":\"princeton university\",\r\n    \"degree\":\"b.s psychology\",\r\n    \"period\":{\r\n        \"start\":\"2016-08-1\",\r\n        \"end\":\"2018-01-1\"\r\n    },\r\n    \"description\":\"bachelor of psychology\"\r\n}],\r\n\"workhistory\":[{\r\n    \"name\":\"google\",\r\n    \"designation\":\"intern\",\r\n    \"period\":{\r\n        \"start\":\"2017-08-1\",\r\n        \"end\":\"2017-08-30\"\r\n    },\r\n    \"description\":\"google internship\"\r\n}]\r\n}",
+						"method": "POST",
+						"dataMode": "raw"
+					}
+				}
+			],
+			"rawModeData": "{\r\n\"firstname\":\"jason\",\r\n\"lastname\":\"will\",\r\n\"email\":\"jasonwill@123.com\",\r\n\"phone\":\"1234567890\",\r\n\"fathername\":\"jacob\",\r\n\"mothername\":\"ellen\",\r\n\"additional_info\":\"i am good at academics\",\r\n\"carrerobjective\":\"hard working\",\r\n\"dateofbirth\":\"1994-08-01\",\r\n\"birthplace\":\"canada\",\r\n\"nationality\":\"canadian\",\r\n\"sex\":\"male\",\r\n\"address\":\"no 1 canada street, canada\",\r\n\"specialqualification\":\"strong leadership skills\",\r\n\"declaration\":\"all above information given by my knowledge\",\r\n\"email_notification\":false,\r\n\"resume\":\"1223344555\",\r\n\"language\":[{\r\n    \"name\":\"english\",\r\n    \"rating\":\"4\"\r\n},\r\n{\r\n    \"name\":\"tamil\",\r\n    \"rating\":\"5\"\r\n}],\r\n\"education\":[{\r\n    \"name\":\"princeton university\",\r\n    \"degree\":\"b.s psychology\",\r\n    \"period\":{\r\n        \"start\":\"2016-08-1\",\r\n        \"end\":\"2018-01-1\"\r\n    },\r\n    \"description\":\"bachelor of psychology\"\r\n}],\r\n\"workhistory\":[{\r\n    \"name\":\"google\",\r\n    \"designation\":\"intern\",\r\n    \"period\":{\r\n        \"start\":\"2017-08-1\",\r\n        \"end\":\"2017-08-30\"\r\n    },\r\n    \"description\":\"google internship\"\r\n}]\r\n}"
+		},
+		{
+			"id": "c7181693-d9f3-ab3c-ee67-9ab263c64679",
+			"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/company",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"data": null,
+			"dataMode": "params",
+			"name": "Get Companies",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1518587587949,
+			"version": 2,
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 432,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "296",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 05:52:39 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"128-rcCy1+3W/QPZ5Gc9I5HdnJ5bynA\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\",\"companies\":[{\"_id\":\"5a83ccd8ccf251e45d221ab4\",\"name\":\"google\"},{\"_id\":\"5a83cd32ccf251e45d221add\",\"name\":\"microsoft\"},{\"_id\":\"5a83cd40ccf251e45d221ae5\",\"name\":\"boston dynamics\"},{\"_id\":\"5a83cd48ccf251e45d221aea\",\"name\":\"hp\"},{\"_id\":\"5a83cd5dccf251e45d221af1\",\"name\":\"apple\"}]}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Example for get all companies",
+					"id": "fc68bcf8-da06-de72-6075-e179dca9c93e",
+					"request": {
+						"url": "http://localhost:3000/api/company",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": null,
+						"method": "GET",
+						"dataMode": "params"
+					}
+				}
+			],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"folder": "d38a0669-984d-662b-228f-4a65429fe709"
+		},
+		{
+			"id": "dc72116a-9009-2ddb-3177-86210a7d5cdc",
+			"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/designation",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"data": null,
+			"dataMode": "params",
+			"name": "Get created designation",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1518589549869,
+			"version": 2,
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 30,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "906",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 06:40:51 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"38a-1877BV4uW42UlqzLgY0Vm6mKIoU\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\",\"designations\":[{\"_id\":\"5a83d570ccf251e45d221d35\",\"name\":\"cto\"},{\"_id\":\"5a83d574ccf251e45d221d39\",\"name\":\"ceo\"},{\"_id\":\"5a83d591ccf251e45d221d42\",\"name\":\"technical engineer\"},{\"_id\":\"5a83d596ccf251e45d221d46\",\"name\":\"support engineer\"},{\"_id\":\"5a83d59cccf251e45d221d4c\",\"name\":\"software engineer\"},{\"_id\":\"5a83d5a8ccf251e45d221d51\",\"name\":\"software developer\"},{\"_id\":\"5a83d5adccf251e45d221d57\",\"name\":\"software analyst\"},{\"_id\":\"5a83d5b6ccf251e45d221d5c\",\"name\":\"project manager\"},{\"_id\":\"5a83d5c0ccf251e45d221d61\",\"name\":\"technical lead\"},{\"_id\":\"5a83d5cbccf251e45d221d66\",\"name\":\"team lead\"},{\"_id\":\"5a83d5d7ccf251e45d221d6e\",\"name\":\"cfo\"},{\"_id\":\"5a83d5e3ccf251e45d221d73\",\"name\":\"junior engineer\"},{\"_id\":\"5a83d5e8ccf251e45d221d79\",\"name\":\"suport engineer\"},{\"_id\":\"5a83d5f8ccf251e45d221d81\",\"name\":\"customer support\"},{\"_id\":\"5a83d608ccf251e45d221d88\",\"name\":\"senior developer\"}]}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Get created designation",
+					"id": "c9e48d58-3d98-e2db-910e-df0a13c75b50",
+					"request": {
+						"url": "http://localhost:3000/api/designation",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": null,
+						"method": "GET",
+						"dataMode": "params"
+					}
+				}
+			],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"folder": "8f1497fd-d9f2-e640-db02-f690ab3f3b96"
+		},
+		{
+			"id": "f76ed35f-041e-1036-bf41-d5071bc45072",
+			"headers": "Content-Type: application/json\nAuthorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/company/create",
+			"folder": "d38a0669-984d-662b-228f-4a65429fe709",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1518587688237,
+			"name": "Create company",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 55,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "20",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 05:54:00 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"14-Y53wuE/mmbSikKcT/WualL1N65U\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Create company example",
+					"id": "a4c75a6c-820b-6cec-9f4f-41ef56eadf96",
+					"request": {
+						"url": "http://localhost:3000/api/company/create",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"enabled": true,
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"enabled": true,
+								"description": ""
+							}
+						],
+						"headers": "Content-Type: application/json\nAuthorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": "{\n\t\"name\":\"samsung\"\n}",
+						"method": "POST",
+						"dataMode": "raw"
+					}
+				},
+				{
+					"status": "",
+					"responseCode": {
+						"code": 404,
+						"name": "Not Found",
+						"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+					},
+					"time": 31,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "52",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 05:54:41 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"34-VzcnV4m8JbhFR3q7KCRI3eqflCo\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"error\",\"msg\":\"required field is missing\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Validation Error (Required field is missing)",
+					"id": "d77272e1-db40-39e5-92a0-e29d5ae5b54c",
+					"request": {
+						"url": "http://localhost:3000/api/company/create",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"enabled": true,
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"enabled": true,
+								"description": ""
+							}
+						],
+						"headers": "Content-Type: application/json\nAuthorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\n",
+						"data": "{\n\t\"name\":\"samsung\"\n}",
+						"method": "POST",
+						"dataMode": "raw"
+					}
+				}
+			],
+			"rawModeData": "{\n\t\"name\":\"samsung\"\n}"
+		},
+		{
+			"id": "f9f93a7a-a1e2-ed92-0724-3f8981f1c7c7",
+			"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\nContent-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/experience/level/create",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1518605366798,
+			"name": "Create Experience Level",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 478,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "20",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 06:48:32 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"14-Y53wuE/mmbSikKcT/WualL1N65U\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Create Experience Level Example",
+					"id": "297489c6-6a48-af1f-9df9-7d17805990c9",
+					"request": {
+						"url": "http://localhost:3000/api/experience/level/create",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\nContent-Type: application/json\n",
+						"data": "{\n\t\"name\":\"mid-level\"\n}",
+						"method": "POST",
+						"dataMode": "raw"
+					}
+				},
+				{
+					"status": "",
+					"responseCode": {
+						"code": 404,
+						"name": "Not Found",
+						"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+					},
+					"time": 50,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "52",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Wed, 14 Feb 2018 06:49:04 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"34-VzcnV4m8JbhFR3q7KCRI3eqflCo\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"error\",\"msg\":\"required field is missing\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Validation Error (Requried field missing)",
+					"id": "4f40e1f5-e576-9684-8c3a-58d11744a3b0",
+					"request": {
+						"url": "http://localhost:3000/api/experience/level/create",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\nContent-Type: application/json\n",
+						"data": "{\n\t\"name\":\"\"\n}",
+						"method": "POST",
+						"dataMode": "raw"
+					}
+				}
+			],
+			"rawModeData": "{\n\t\"name\":\"projectmanager\"\n}"
+		},
+		{
+			"id": "fbfd1031-3ff9-9b5d-566e-3c955e621fd5",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/user/login",
+			"folder": "edce5131-8a00-c22c-738f-7cc2937fcc25",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1518691271141,
+			"name": "User login",
+			"description": "Login API Endpoint",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 35,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "47",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Mon, 12 Feb 2018 12:17:17 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"2f-4H44xVXLrn8o8yxDN2nYEA9ImGY\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"invalid\",\"msg\":\"invalid parameters\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Invalid Parameters Example Request",
+					"id": "0c91068d-4489-7101-23a7-7244b7b4da65",
+					"request": {
+						"url": "http://localhost:3000/api/user/login",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headers": "Content-Type: application/json\n",
+						"data": "{\n\t\"username\":\"admin\"\n}",
+						"method": "POST",
+						"dataMode": "raw"
+					}
+				},
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 27,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "57",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Mon, 12 Feb 2018 12:52:33 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"39-JKaCrcpQmINsIewcVLf1M7lh/zI\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"invalid\",\"msg\":\"invalid username or password\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Invalid Username or Password",
+					"id": "3345559e-a86c-d45b-3c21-410e8e6c5528",
+					"request": {
+						"url": "http://localhost:3000/api/user/login",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headers": "Content-Type: application/json\n",
+						"data": "{\n\t\"username\":\"admin\",\n\t\"password\":\"123445\"\n}",
+						"method": "POST",
+						"dataMode": "raw"
+					}
+				},
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 411,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "218",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Mon, 12 Feb 2018 13:29:47 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"da-OPyuXPXTNBBIwVq2gDA/gAq5wqw\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"authenticated\",\"user\":{\"_id\":\"5a818d4091107d6ff893995e\",\"userName\":\"admin\",\"emailID\":\"admin@jobportal.com\",\"phone\":\"1234567890\",\"isactive\":true,\"isadmin\":true},\"token\":\"d0821bd3-8b62-4976-a4b0-756a844e30b3\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Authenticated user example",
+					"id": "795bd0e1-6fa5-f530-ab24-a25dfef1a541",
+					"request": {
+						"url": "http://localhost:3000/api/user/login",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headers": "Content-Type: application/json\n",
+						"data": "{\n\t\"username\":\"admin\",\n\t\"password\":\"1234\"\n}",
+						"method": "POST",
+						"dataMode": "raw"
+					}
+				}
+			],
+			"rawModeData": "{\n\t\"username\":\"admin\",\n\t\"password\":\"1234\"\n}"
+		},
+		{
+			"id": "fedf0f5f-5f41-9e0a-8703-e58008dde53a",
+			"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\nContent-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000/api/category/create",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1518604911256,
+			"name": "Create Category",
+			"description": "",
+			"collectionId": "2f2b6a4e-e131-955e-6bd8-26db531649ac",
+			"responses": [
+				{
+					"status": "",
+					"responseCode": {
+						"code": 200,
+						"name": "OK",
+						"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+					},
+					"time": 41,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "20",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Tue, 13 Feb 2018 12:50:51 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"14-Y53wuE/mmbSikKcT/WualL1N65U\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"success\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Create New Category ",
+					"id": "d7b14a39-ffe1-296d-67d6-edc4596a0caf",
+					"request": {
+						"url": "http://localhost:3000/api/category/create",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\nContent-Type: application/json\n",
+						"data": "{\n\t\"name\":\"program developer\"\n}",
+						"method": "POST",
+						"dataMode": "raw"
+					}
+				},
+				{
+					"status": "",
+					"responseCode": {
+						"code": 404,
+						"name": "Not Found",
+						"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+					},
+					"time": 33,
+					"headers": [
+						{
+							"name": "access-control-allow-headers",
+							"key": "access-control-allow-headers",
+							"value": "Origin, X-Requested-With, Content-Type, Accept",
+							"description": "Used in response to a preflight request to indicate which HTTP headers can be used when making the actual request."
+						},
+						{
+							"name": "access-control-allow-methods",
+							"key": "access-control-allow-methods",
+							"value": "GET, POST, PUT, DELETE",
+							"description": "Specifies the method or methods allowed when accessing the resource. This is used in response to a preflight request."
+						},
+						{
+							"name": "access-control-allow-origin",
+							"key": "access-control-allow-origin",
+							"value": "*",
+							"description": "Specifies a URI that may access the resource. For requests without credentials, the server may specify '*' as a wildcard, thereby allowing any origin to access the resource."
+						},
+						{
+							"name": "connection",
+							"key": "connection",
+							"value": "keep-alive",
+							"description": "Options that are desired for the connection"
+						},
+						{
+							"name": "content-length",
+							"key": "content-length",
+							"value": "85",
+							"description": "The length of the response body in octets (8-bit bytes)"
+						},
+						{
+							"name": "content-type",
+							"key": "content-type",
+							"value": "application/json; charset=utf-8",
+							"description": "The mime type of this content"
+						},
+						{
+							"name": "date",
+							"key": "date",
+							"value": "Tue, 13 Feb 2018 12:51:42 GMT",
+							"description": "The date and time that the message was sent"
+						},
+						{
+							"name": "etag",
+							"key": "etag",
+							"value": "W/\"55-Cz1bLNACWOhKp0EP/wbrusZVEbk\"",
+							"description": "An identifier for a specific version of a resource, often a message digest"
+						},
+						{
+							"name": "x-powered-by",
+							"key": "x-powered-by",
+							"value": "Express",
+							"description": "Specifies the technology (ASP.NET, PHP, JBoss, e.g.) supporting the web application (version details are often in X-Runtime, X-Version, or X-AspNet-Version)"
+						}
+					],
+					"cookies": [],
+					"mime": "",
+					"text": "{\"status\":\"error\",\"msg\":\"category validation failed: name: Path `name` is required.\"}",
+					"language": "json",
+					"rawDataType": "text",
+					"previewType": "text",
+					"searchResultScrolledTo": -1,
+					"forceNoPretty": false,
+					"write": true,
+					"empty": false,
+					"failed": false,
+					"name": "Validation Error (Required Field missing)",
+					"id": "a176d9bf-140a-aa2a-51d9-890e0f3d0216",
+					"request": {
+						"url": "http://localhost:3000/api/category/create",
+						"pathVariables": {},
+						"pathVariableData": [],
+						"queryParams": [],
+						"headerData": [
+							{
+								"key": "Authorization",
+								"value": "d0821bd3-8b62-4976-a4b0-756a844e30b3",
+								"description": "",
+								"enabled": true,
+								"warning": ""
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"description": "",
+								"enabled": true
+							}
+						],
+						"headers": "Authorization: d0821bd3-8b62-4976-a4b0-756a844e30b3\nContent-Type: application/json\n",
+						"data": "{\n\n}",
+						"method": "POST",
+						"dataMode": "raw"
+					}
+				}
+			],
+			"rawModeData": "{\n\t\"name\":\"architecture\"\n}"
+		}
+	]
+}
